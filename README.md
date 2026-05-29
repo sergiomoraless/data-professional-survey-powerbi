@@ -21,7 +21,7 @@ Page 1 replicates the guided dashboard. Page 2 is independent analysis.
 ![Page 1](screenshots/page1_overview.png)
 
 ### Page 2 — Independent Analysis
-![Page 2](screenshots/page2_analysis.png)
+![Page 2](screenshots/page2_overview.png)
 
 ## Key Findings
 
