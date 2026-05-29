@@ -15,6 +15,14 @@ Page 1 replicates the guided dashboard. Page 2 is independent analysis.
 - Does average salary vary significantly by age group
   within each job title?
 
+  ## Dashboard
+
+### Page 1 — Overview
+![Page 1](screenshots/page1_overview.png)
+
+### Page 2 — Independent Analysis
+![Page 2](screenshots/page2_analysis.png)
+
 ## Key Findings
 
 - India has the highest proportion of Python users (~86%),
