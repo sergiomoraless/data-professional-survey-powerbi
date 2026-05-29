@@ -27,8 +27,8 @@ Page 1 replicates the guided dashboard. Page 2 is independent analysis.
 
 - India has the highest proportion of Python users (~86%),
   while the United States shows the highest proportion of R (~20%).
-- Healthcare leads all industries with the highest average salary (~$64k) 
-  followed by Finance (~$58k) and Real Estate (~$56k).
+- Healthcare leads all industries with the highest average salary (~$64k),
+  followed by Finance (~$58k) and then Real Estate (~$56k).
 - The harder it was to break into data, the lower the salary
   satisfaction: those who reported "Very Difficult" average 2.57/10
   vs 5.19/10 for "Very Easy".
